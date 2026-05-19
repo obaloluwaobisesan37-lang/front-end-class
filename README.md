@@ -1,2 +1,5 @@
-# front-end-class
-Learning frontend at notzero
+<doctype html
+<html>
+<head>
+<meta charset="UTF-8">
+
